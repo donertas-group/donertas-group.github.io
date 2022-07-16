@@ -406,4 +406,6 @@
   <url>
     <loc>/joinus/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/people/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/categories/</loc><changefreq>weekly</changefreq></url></urlset>
