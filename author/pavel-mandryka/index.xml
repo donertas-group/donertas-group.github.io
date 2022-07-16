@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pavel Mandryka | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/author/pavel-mandryka/</link>
-      <atom:link href="donertas-group.github.io/author/pavel-mandryka/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/pavel-mandryka/</link>
+      <atom:link href="/author/pavel-mandryka/index.xml" rel="self" type="application/rss+xml" />
     <description>Pavel Mandryka</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Pavel Mandryka</title>
-      <link>donertas-group.github.io/author/pavel-mandryka/</link>
+      <link>/author/pavel-mandryka/</link>
     </image>
     
     <item>
       <title>Human population dynamics and Yersinia pestis in ancient northeast Asia (Research Article)</title>
-      <link>donertas-group.github.io/publication/2021kilinc/</link>
+      <link>/publication/2021kilinc/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2021kilinc/</guid>
+      <guid>/publication/2021kilinc/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omer Gokcumen | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/author/omer-gokcumen/</link>
-      <atom:link href="donertas-group.github.io/author/omer-gokcumen/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/omer-gokcumen/</link>
+      <atom:link href="/author/omer-gokcumen/index.xml" rel="self" type="application/rss+xml" />
     <description>Omer Gokcumen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Omer Gokcumen</title>
-      <link>donertas-group.github.io/author/omer-gokcumen/</link>
+      <link>/author/omer-gokcumen/</link>
     </image>
     
     <item>
       <title>Variation and functional impact of Neanderthal ancestry in Western Asia (Research Article)</title>
-      <link>donertas-group.github.io/publication/2017taskent/</link>
+      <link>/publication/2017taskent/</link>
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2017taskent/</guid>
+      <guid>/publication/2017taskent/</guid>
       <description></description>
     </item>
     

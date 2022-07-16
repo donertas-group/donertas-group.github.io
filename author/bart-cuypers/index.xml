@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bart Cuypers | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/author/bart-cuypers/</link>
-      <atom:link href="donertas-group.github.io/author/bart-cuypers/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/bart-cuypers/</link>
+      <atom:link href="/author/bart-cuypers/index.xml" rel="self" type="application/rss+xml" />
     <description>Bart Cuypers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Bart Cuypers</title>
-      <link>donertas-group.github.io/author/bart-cuypers/</link>
+      <link>/author/bart-cuypers/</link>
     </image>
     
     <item>
       <title>Highlights from the 16th International Society for Computational Biology Student Council Symposium 2020 (Editorial Article)</title>
-      <link>donertas-group.github.io/publication/2021cuypers/</link>
+      <link>/publication/2021cuypers/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2021cuypers/</guid>
+      <guid>/publication/2021cuypers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global network of computational biology communities: ISCB&#39;s Regional Student Groups breaking barriers (Editorial Article)</title>
-      <link>donertas-group.github.io/publication/2019shome/</link>
+      <link>/publication/2019shome/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2019shome/</guid>
+      <guid>/publication/2019shome/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Altuğ Kamacıoğlu | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/author/altug-kamac%C4%B1oglu/</link>
-      <atom:link href="donertas-group.github.io/author/altug-kamac%C4%B1oglu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/altug-kamac%C4%B1oglu/</link>
+      <atom:link href="/author/altug-kamac%C4%B1oglu/index.xml" rel="self" type="application/rss+xml" />
     <description>Altuğ Kamacıoğlu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Altuğ Kamacıoğlu</title>
-      <link>donertas-group.github.io/author/altug-kamac%C4%B1oglu/</link>
+      <link>/author/altug-kamac%C4%B1oglu/</link>
     </image>
     
     <item>
       <title>Gene expression reversal toward pre-adult levels in the aging human brain and age-related loss of cellular identity (Research Article)</title>
-      <link>donertas-group.github.io/publication/2017donertas/</link>
+      <link>/publication/2017donertas/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2017donertas/</guid>
+      <guid>/publication/2017donertas/</guid>
       <description></description>
     </item>
     

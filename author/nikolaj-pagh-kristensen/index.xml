@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nikolaj Pagh Kristensen | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/author/nikolaj-pagh-kristensen/</link>
-      <atom:link href="donertas-group.github.io/author/nikolaj-pagh-kristensen/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/nikolaj-pagh-kristensen/</link>
+      <atom:link href="/author/nikolaj-pagh-kristensen/index.xml" rel="self" type="application/rss+xml" />
     <description>Nikolaj Pagh Kristensen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Nikolaj Pagh Kristensen</title>
-      <link>donertas-group.github.io/author/nikolaj-pagh-kristensen/</link>
+      <link>/author/nikolaj-pagh-kristensen/</link>
     </image>
     
     <item>
       <title>Global network of computational biology communities: ISCB&#39;s Regional Student Groups breaking barriers (Editorial Article)</title>
-      <link>donertas-group.github.io/publication/2019shome/</link>
+      <link>/publication/2019shome/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2019shome/</guid>
+      <guid>/publication/2019shome/</guid>
       <description></description>
     </item>
     

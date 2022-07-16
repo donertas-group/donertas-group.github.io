@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Johnathan Labbadia | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/author/johnathan-labbadia/</link>
-      <atom:link href="donertas-group.github.io/author/johnathan-labbadia/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/johnathan-labbadia/</link>
+      <atom:link href="/author/johnathan-labbadia/index.xml" rel="self" type="application/rss+xml" />
     <description>Johnathan Labbadia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Johnathan Labbadia</title>
-      <link>donertas-group.github.io/author/johnathan-labbadia/</link>
+      <link>/author/johnathan-labbadia/</link>
     </image>
     
     <item>
       <title>Using the drug-protein interactome to identify anti-ageing compounds for humans (Research Article)</title>
-      <link>donertas-group.github.io/publication/2019fuentealba/</link>
+      <link>/publication/2019fuentealba/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2019fuentealba/</guid>
+      <guid>/publication/2019fuentealba/</guid>
       <description></description>
     </item>
     

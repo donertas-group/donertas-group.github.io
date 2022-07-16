@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehmet Somel | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/author/mehmet-somel/</link>
-      <atom:link href="donertas-group.github.io/author/mehmet-somel/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/mehmet-somel/</link>
+      <atom:link href="/author/mehmet-somel/index.xml" rel="self" type="application/rss+xml" />
     <description>Mehmet Somel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Mehmet Somel</title>
-      <link>donertas-group.github.io/author/mehmet-somel/</link>
+      <link>/author/mehmet-somel/</link>
     </image>
     
     <item>
       <title>Inter-tissue convergence of gene expression during ageing suggests age-related loss of tissue and cellular identity (Research Article)</title>
-      <link>donertas-group.github.io/publication/2021izgi/</link>
+      <link>/publication/2021izgi/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2021izgi/</guid>
+      <guid>/publication/2021izgi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convergent evolution of primate testis transcriptomes reflects mating strategy (Research Article)</title>
-      <link>donertas-group.github.io/publication/2021yapar/</link>
+      <link>/publication/2021yapar/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2021yapar/</guid>
+      <guid>/publication/2021yapar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human population dynamics and Yersinia pestis in ancient northeast Asia (Research Article)</title>
-      <link>donertas-group.github.io/publication/2021kilinc/</link>
+      <link>/publication/2021kilinc/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2021kilinc/</guid>
+      <guid>/publication/2021kilinc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal changes in the gene expression heterogeneity during brain development and aging (Research Article)</title>
-      <link>donertas-group.github.io/publication/2020isildak/</link>
+      <link>/publication/2020isildak/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2020isildak/</guid>
+      <guid>/publication/2020isildak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular footprint of Medawar’s mutation accumulation process in mammalian aging (Research Article)</title>
-      <link>donertas-group.github.io/publication/2019turan/</link>
+      <link>/publication/2019turan/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2019turan/</guid>
+      <guid>/publication/2019turan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archaeogenomic analysis of the first steps of Neolithization in Anatolia and the Aegean (Research Article)</title>
-      <link>donertas-group.github.io/publication/2017kilinc/</link>
+      <link>/publication/2017kilinc/</link>
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2017kilinc/</guid>
+      <guid>/publication/2017kilinc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation and functional impact of Neanderthal ancestry in Western Asia (Research Article)</title>
-      <link>donertas-group.github.io/publication/2017taskent/</link>
+      <link>/publication/2017taskent/</link>
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2017taskent/</guid>
+      <guid>/publication/2017taskent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene expression reversal toward pre-adult levels in the aging human brain and age-related loss of cellular identity (Research Article)</title>
-      <link>donertas-group.github.io/publication/2017donertas/</link>
+      <link>/publication/2017donertas/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2017donertas/</guid>
+      <guid>/publication/2017donertas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The demographic development of the first farmers in Anatolia (Research Article)</title>
-      <link>donertas-group.github.io/publication/2016kilinc/</link>
+      <link>/publication/2016kilinc/</link>
       <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2016kilinc/</guid>
+      <guid>/publication/2016kilinc/</guid>
       <description></description>
     </item>
     

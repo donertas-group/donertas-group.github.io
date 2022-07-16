@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>human | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/tag/human/</link>
-      <atom:link href="donertas-group.github.io/tag/human/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/human/</link>
+      <atom:link href="/tag/human/index.xml" rel="self" type="application/rss+xml" />
     <description>human</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>human</title>
-      <link>donertas-group.github.io/tag/human/</link>
+      <link>/tag/human/</link>
     </image>
     
     <item>
       <title>Temporal changes in the gene expression heterogeneity during brain development and aging (Research Article)</title>
-      <link>donertas-group.github.io/publication/2020isildak/</link>
+      <link>/publication/2020isildak/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2020isildak/</guid>
+      <guid>/publication/2020isildak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The widespread increase in inter-individual variability of gene expression in the human brain with age (Research Article)</title>
-      <link>donertas-group.github.io/publication/2019kedlian/</link>
+      <link>/publication/2019kedlian/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2019kedlian/</guid>
+      <guid>/publication/2019kedlian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene expression-based drug repurposing to target aging (Research Article)</title>
-      <link>donertas-group.github.io/publication/2018donertas/</link>
+      <link>/publication/2018donertas/</link>
       <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2018donertas/</guid>
+      <guid>/publication/2018donertas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene expression reversal toward pre-adult levels in the aging human brain and age-related loss of cellular identity (Research Article)</title>
-      <link>donertas-group.github.io/publication/2017donertas/</link>
+      <link>/publication/2017donertas/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2017donertas/</guid>
+      <guid>/publication/2017donertas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta-analysis of gene expression reversals in ageing brain (MSc Thesis)</title>
-      <link>donertas-group.github.io/publication/2016donertas_mscthesis/</link>
+      <link>/publication/2016donertas_mscthesis/</link>
       <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2016donertas_mscthesis/</guid>
+      <guid>/publication/2016donertas_mscthesis/</guid>
       <description></description>
     </item>
     

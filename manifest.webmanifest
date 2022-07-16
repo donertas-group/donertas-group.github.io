@@ -5,14 +5,14 @@
   "theme_color": "#fa7f30",
   "background_color": "#fa7f30",
   "icons": [{
-    "src": "/donertas-group.github.io/media/icon_hucf424fa538a40637d2f9ec4e6299dfe1_1840631_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hucf424fa538a40637d2f9ec4e6299dfe1_1840631_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/donertas-group.github.io/media/icon_hucf424fa538a40637d2f9ec4e6299dfe1_1840631_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hucf424fa538a40637d2f9ec4e6299dfe1_1840631_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/donertas-group.github.io/?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }

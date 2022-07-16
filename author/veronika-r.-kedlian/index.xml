@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veronika R. Kedlian | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/author/veronika-r.-kedlian/</link>
-      <atom:link href="donertas-group.github.io/author/veronika-r.-kedlian/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/veronika-r.-kedlian/</link>
+      <atom:link href="/author/veronika-r.-kedlian/index.xml" rel="self" type="application/rss+xml" />
     <description>Veronika R. Kedlian</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Veronika R. Kedlian</title>
-      <link>donertas-group.github.io/author/veronika-r.-kedlian/</link>
+      <link>/author/veronika-r.-kedlian/</link>
     </image>
     
     <item>
       <title>The widespread increase in inter-individual variability of gene expression in the human brain with age (Research Article)</title>
-      <link>donertas-group.github.io/publication/2019kedlian/</link>
+      <link>/publication/2019kedlian/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2019kedlian/</guid>
+      <guid>/publication/2019kedlian/</guid>
       <description></description>
     </item>
     

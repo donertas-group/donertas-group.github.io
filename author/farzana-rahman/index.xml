@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Farzana Rahman | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/author/farzana-rahman/</link>
-      <atom:link href="donertas-group.github.io/author/farzana-rahman/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/farzana-rahman/</link>
+      <atom:link href="/author/farzana-rahman/index.xml" rel="self" type="application/rss+xml" />
     <description>Farzana Rahman</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Farzana Rahman</title>
-      <link>donertas-group.github.io/author/farzana-rahman/</link>
+      <link>/author/farzana-rahman/</link>
     </image>
     
     <item>
       <title>Highlights from the 16th International Society for Computational Biology Student Council Symposium 2020 (Editorial Article)</title>
-      <link>donertas-group.github.io/publication/2021cuypers/</link>
+      <link>/publication/2021cuypers/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2021cuypers/</guid>
+      <guid>/publication/2021cuypers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global network of computational biology communities: ISCB&#39;s Regional Student Groups breaking barriers (Editorial Article)</title>
-      <link>donertas-group.github.io/publication/2019shome/</link>
+      <link>/publication/2019shome/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2019shome/</guid>
+      <guid>/publication/2019shome/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>age-related diseases | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/tag/age-related-diseases/</link>
-      <atom:link href="donertas-group.github.io/tag/age-related-diseases/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/age-related-diseases/</link>
+      <atom:link href="/tag/age-related-diseases/index.xml" rel="self" type="application/rss+xml" />
     <description>age-related diseases</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>age-related diseases</title>
-      <link>donertas-group.github.io/tag/age-related-diseases/</link>
+      <link>/tag/age-related-diseases/</link>
     </image>
     
     <item>
       <title>Common genetic associations between age-related diseases (Research Article)</title>
-      <link>donertas-group.github.io/publication/2021donertas/</link>
+      <link>/publication/2021donertas/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2021donertas/</guid>
+      <guid>/publication/2021donertas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational studies on ageing and age-related diseases (PhD Thesis)</title>
-      <link>donertas-group.github.io/publication/2020donertas_phdthesis/</link>
+      <link>/publication/2020donertas_phdthesis/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2020donertas_phdthesis/</guid>
+      <guid>/publication/2020donertas_phdthesis/</guid>
       <description></description>
     </item>
     

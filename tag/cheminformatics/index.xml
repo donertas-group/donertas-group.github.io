@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cheminformatics | Dönertaş Research Group</title>
-    <link>donertas-group.github.io/tag/cheminformatics/</link>
-      <atom:link href="donertas-group.github.io/tag/cheminformatics/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/cheminformatics/</link>
+      <atom:link href="/tag/cheminformatics/index.xml" rel="self" type="application/rss+xml" />
     <description>cheminformatics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>cheminformatics</title>
-      <link>donertas-group.github.io/tag/cheminformatics/</link>
+      <link>/tag/cheminformatics/</link>
     </image>
     
     <item>
       <title>Characterising Complex Enzyme Reaction Data (Research Article)</title>
-      <link>donertas-group.github.io/publication/2016donertas/</link>
+      <link>/publication/2016donertas/</link>
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>donertas-group.github.io/publication/2016donertas/</guid>
+      <guid>/publication/2016donertas/</guid>
       <description></description>
     </item>
     
