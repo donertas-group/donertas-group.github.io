@@ -5,12 +5,21 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title> </title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>/post/01_establishment/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/01_establishment/</guid>
+      <description>&lt;p&gt;The Dönertaş Group will come to life in January 2023 at &lt;a href=&#34;http://leibniz-fli.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Leibniz Institute on Aging - Fritz Lipmann Institute (FLI)&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
