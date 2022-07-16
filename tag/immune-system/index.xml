@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>immune system | Dönertaş Research Group</title>
+    <link>donertas-group.github.io/tag/immune-system/</link>
+      <atom:link href="donertas-group.github.io/tag/immune-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>immune system</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <title>immune system</title>
+      <link>donertas-group.github.io/tag/immune-system/</link>
+    </image>
+    
+    <item>
+      <title>Functional conservation in genes and pathways linking ageing and immunity (Review Article)</title>
+      <link>donertas-group.github.io/publication/2021fabian_review/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2021fabian_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation and functional impact of Neanderthal ancestry in Western Asia (Research Article)</title>
+      <link>donertas-group.github.io/publication/2017taskent/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2017taskent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

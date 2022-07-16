@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chase Donnelly | Dönertaş Research Group</title>
+    <link>donertas-group.github.io/author/chase-donnelly/</link>
+      <atom:link href="donertas-group.github.io/author/chase-donnelly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chase Donnelly</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <title>Chase Donnelly</title>
+      <link>donertas-group.github.io/author/chase-donnelly/</link>
+    </image>
+    
+    <item>
+      <title>Highlights from the 16th International Society for Computational Biology Student Council Symposium 2020 (Editorial Article)</title>
+      <link>donertas-group.github.io/publication/2021cuypers/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2021cuypers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

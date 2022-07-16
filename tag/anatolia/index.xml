@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anatolia | Dönertaş Research Group</title>
+    <link>donertas-group.github.io/tag/anatolia/</link>
+      <atom:link href="donertas-group.github.io/tag/anatolia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anatolia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <title>Anatolia</title>
+      <link>donertas-group.github.io/tag/anatolia/</link>
+    </image>
+    
+    <item>
+      <title>Archaeogenomic analysis of the first steps of Neolithization in Anatolia and the Aegean (Research Article)</title>
+      <link>donertas-group.github.io/publication/2017kilinc/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2017kilinc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation and functional impact of Neanderthal ancestry in Western Asia (Research Article)</title>
+      <link>donertas-group.github.io/publication/2017taskent/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2017taskent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The demographic development of the first farmers in Anatolia (Research Article)</title>
+      <link>donertas-group.github.io/publication/2016kilinc/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2016kilinc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

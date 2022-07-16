@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: donertas-group.github.io/sitemap.xml

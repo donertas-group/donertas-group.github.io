@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transcriptomics | Dönertaş Research Group</title>
+    <link>donertas-group.github.io/tag/transcriptomics/</link>
+      <atom:link href="donertas-group.github.io/tag/transcriptomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>transcriptomics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <title>transcriptomics</title>
+      <link>donertas-group.github.io/tag/transcriptomics/</link>
+    </image>
+    
+    <item>
+      <title>Inter-tissue convergence of gene expression during ageing suggests age-related loss of tissue and cellular identity (Research Article)</title>
+      <link>donertas-group.github.io/publication/2021izgi/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2021izgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergent evolution of primate testis transcriptomes reflects mating strategy (Research Article)</title>
+      <link>donertas-group.github.io/publication/2021yapar/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2021yapar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic profiling of long- and short-lived mutant mice implicates mitochondrial metabolism in ageing and shows signatures of normal ageing in progeroid mice (Research Article)</title>
+      <link>donertas-group.github.io/publication/2021fuentealba/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2021fuentealba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transposable Element Landscape in Drosophila Populations Selected for Longevity (Research Article)</title>
+      <link>donertas-group.github.io/publication/2021fabian/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2021fabian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational studies on ageing and age-related diseases (PhD Thesis)</title>
+      <link>donertas-group.github.io/publication/2020donertas_phdthesis/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2020donertas_phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal changes in the gene expression heterogeneity during brain development and aging (Research Article)</title>
+      <link>donertas-group.github.io/publication/2020isildak/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2020isildak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular footprint of Medawar’s mutation accumulation process in mammalian aging (Research Article)</title>
+      <link>donertas-group.github.io/publication/2019turan/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2019turan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The widespread increase in inter-individual variability of gene expression in the human brain with age (Research Article)</title>
+      <link>donertas-group.github.io/publication/2019kedlian/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2019kedlian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression-based drug repurposing to target aging (Research Article)</title>
+      <link>donertas-group.github.io/publication/2018donertas/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2018donertas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression reversal toward pre-adult levels in the aging human brain and age-related loss of cellular identity (Research Article)</title>
+      <link>donertas-group.github.io/publication/2017donertas/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2017donertas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis of gene expression reversals in ageing brain (MSc Thesis)</title>
+      <link>donertas-group.github.io/publication/2016donertas_mscthesis/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2016donertas_mscthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

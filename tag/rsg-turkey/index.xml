@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSG Turkey | Dönertaş Research Group</title>
+    <link>donertas-group.github.io/tag/rsg-turkey/</link>
+      <atom:link href="donertas-group.github.io/tag/rsg-turkey/index.xml" rel="self" type="application/rss+xml" />
+    <description>RSG Turkey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/donertas-group.github.io/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <title>RSG Turkey</title>
+      <link>donertas-group.github.io/tag/rsg-turkey/</link>
+    </image>
+    
+    <item>
+      <title>Lessons from a ten-year-long journey: building a student-driven computational biology society across Turkey (Editorial Article)</title>
+      <link>donertas-group.github.io/publication/2022kaya/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>donertas-group.github.io/publication/2022kaya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
