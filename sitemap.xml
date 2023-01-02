@@ -402,4 +402,6 @@
   <url>
     <loc>/people/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/categories/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/author/jing-lu/</loc><changefreq>weekly</changefreq></url></urlset>
