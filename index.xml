@@ -5,12 +5,21 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Dönertaş Research Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Dönertaş Research Group</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>A Night of Strikes and Smiles</title>
+      <link>/post/02_bowling_winek/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/post/02_bowling_winek/</guid>
+      <description>&lt;p&gt;Last week, we had the pleasure of spending an evening full of fun and friendly competition with the Winek Lab at a local bowling alley. It was a fantastic opportunity to connect with colleagues outside the lab and foster collaboration. We truly appreciate the time spent together and look forward to future social events and collaborations!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello, world!</title>
