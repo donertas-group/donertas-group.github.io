@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evolution of ageing | Dönertaş Research Group</title>
+    <link>/tag/evolution-of-ageing/</link>
+      <atom:link href="/tag/evolution-of-ageing/index.xml" rel="self" type="application/rss+xml" />
+    <description>evolution of ageing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
+      <title>evolution of ageing</title>
+      <link>/tag/evolution-of-ageing/</link>
+    </image>
+    
+    <item>
+      <title>Evolutionary paths to mammalian longevity through the lens of gene expression (News &amp; Views)</title>
+      <link>/publication/2023isildak/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023isildak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

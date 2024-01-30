@@ -4,17 +4,31 @@
   
   
   <url>
+    <loc>/publication-type/2/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/authors/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/evolution-of-ageing/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/2023isildak/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/author/h.-melike-donertas/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication_types/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tags/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/author/ulas-isildak/</loc><lastmod>2023-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/post/</loc><lastmod>2023-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/post/02_bowling_winek/</loc><lastmod>2023-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/</loc><lastmod>2023-04-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/post/01_establishment/</loc><lastmod>2022-07-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication-type/2/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/authors/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/development-vs-ageing/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -23,8 +37,6 @@
     <loc>/author/dingding-han/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/author/ece-kocabiyik/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/author/h.-melike-donertas/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/author/hamit-izgi/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -36,19 +48,11 @@
   <url>
     <loc>/author/philipp-khaitovich/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication_types/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/tag/reversal/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/author/shuyun-huang/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tags/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/tag/transcriptomics/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/author/ulas-isildak/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/author/cemil-can-saylan/</loc><lastmod>2022-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -418,6 +422,4 @@
   <url>
     <loc>/author/nadine-frigger/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/tayyaba-alvi/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/author/ulas-isildak/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>/author/tayyaba-alvi/</loc><changefreq>weekly</changefreq></url></urlset>
