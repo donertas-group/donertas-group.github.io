@@ -1,0 +1,1491 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="H. Melike Dönertaş" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Developmental trajectories of gene expression may reverse in their direction during ageing, a phenomenon previously linked to cellular identity loss. Our analysis of cerebral cortex, lung, liver and muscle transcriptomes of 16 mice, covering development and ageing intervals, revealed widespread but tissue-specific ageing-associated expression reversals. Cumulatively, these reversals create a unique phenomenon: mammalian tissue transcriptomes diverge from each other during postnatal development, but during ageing, they tend to converge towards similar expression levels, a process we term Divergence followed by Convergence, or DiCo. We found that DiCo was most prevalent among tissue-specific genes and associated with loss of tissue identity, which is confirmed using data from independent mouse and human datasets. Further, using publicly available single-cell transcriptome data, we showed that DiCo could be driven both by alterations in tissue cell type composition and also by cell-autonomous expression changes within particular cell types." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="/publication/2022izgi/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#fa7f30" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.8e2e3f244e7b4428f48c8c4c5f9550f0.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hucf424fa538a40637d2f9ec4e6299dfe1_1840631_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hucf424fa538a40637d2f9ec4e6299dfe1_1840631_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="/publication/2022izgi/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@donertasgroup" />
+    <meta property="twitter:creator" content="@donertasgroup" />
+  
+  <meta property="og:site_name" content="Dönertaş Research Group" />
+  <meta property="og:url" content="/publication/2022izgi/" />
+  <meta property="og:title" content="Inter-tissue convergence of gene expression during ageing suggests age-related loss of tissue and cellular identity (Research Article) | Dönertaş Research Group" />
+  <meta property="og:description" content="Developmental trajectories of gene expression may reverse in their direction during ageing, a phenomenon previously linked to cellular identity loss. Our analysis of cerebral cortex, lung, liver and muscle transcriptomes of 16 mice, covering development and ageing intervals, revealed widespread but tissue-specific ageing-associated expression reversals. Cumulatively, these reversals create a unique phenomenon: mammalian tissue transcriptomes diverge from each other during postnatal development, but during ageing, they tend to converge towards similar expression levels, a process we term Divergence followed by Convergence, or DiCo. We found that DiCo was most prevalent among tissue-specific genes and associated with loss of tissue identity, which is confirmed using data from independent mouse and human datasets. Further, using publicly available single-cell transcriptome data, we showed that DiCo could be driven both by alterations in tissue cell type composition and also by cell-autonomous expression changes within particular cell types." /><meta property="og:image" content="/publication/2022izgi/featured.jpg" />
+    <meta property="twitter:image" content="/publication/2022izgi/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-01-31T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-01-31T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/2022izgi/"
+  },
+  "headline": "Inter-tissue convergence of gene expression during ageing suggests age-related loss of tissue and cellular identity (Research Article)",
+  
+  "image": [
+    "/publication/2022izgi/featured.jpg"
+  ],
+  
+  "datePublished": "2022-01-31T00:00:00Z",
+  "dateModified": "2022-01-31T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Hamit İzgi"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Dönertaş Research Group",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_192x192_fit_lanczos_3.png"
+    }
+  },
+  "description": "Developmental trajectories of gene expression may reverse in their direction during ageing, a phenomenon previously linked to cellular identity loss. Our analysis of cerebral cortex, lung, liver and muscle transcriptomes of 16 mice, covering development and ageing intervals, revealed widespread but tissue-specific ageing-associated expression reversals. Cumulatively, these reversals create a unique phenomenon: mammalian tissue transcriptomes diverge from each other during postnatal development, but during ageing, they tend to converge towards similar expression levels, a process we term Divergence followed by Convergence, or DiCo. We found that DiCo was most prevalent among tissue-specific genes and associated with loss of tissue identity, which is confirmed using data from independent mouse and human datasets. Further, using publicly available single-cell transcriptome data, we showed that DiCo could be driven both by alterations in tissue cell type composition and also by cell-autonomous expression changes within particular cell types."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Inter-tissue convergence of gene expression during ageing suggests age-related loss of tissue and cellular identity (Research Article) | Dönertaş Research Group</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="04459199bae5214fe738561e89b7c83a" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.ebfc3a241d71597ccd6bc3befb0b73bc.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_0x70_resize_lanczos_3.png" alt="Dönertaş Research Group"
+            
+            ></a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_0x70_resize_lanczos_3.png" alt="Dönertaş Research Group"
+          
+          ></a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/post"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link  active" href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/joinus"><span>Join us</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Inter-tissue convergence of gene expression during ageing suggests age-related loss of tissue and cellular identity (Research Article)</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/hamit-izgi/">Hamit İzgi</a></span>, <span >
+      <a href="/author/dingding-han/">DingDing Han</a></span>, <span class="author-highlighted">
+      <a href="/author/ulas-isildak/">Ulas Isildak</a></span>, <span >
+      <a href="/author/shuyun-huang/">Shuyun Huang</a></span>, <span >
+      <a href="/author/ece-kocabiyik/">Ece Kocabiyik</a></span>, <span >
+      <a href="/author/philipp-khaitovich/">Philipp Khaitovich</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Corresponding author"></i>, <span >
+      <a href="/author/mehmet-somel/">Mehmet Somel</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Corresponding author"></i>, <span class="author-highlighted">
+      <a href="/author/h.-melike-donertas/">H. Melike Dönertaş</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Corresponding author"></i>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/https:/elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNjgwNDgvZWxpZmUtNjgwNDgtdjQucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzY4MDQ4/elife-68048-v4.pdf?_hash=%2FbVf5Vi2lt515xmgtDAAANWfbpBNcw7nw6NEqMM17go%3D" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/2022izgi/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="/https:/github.com/hmtzg/geneexp_mouse" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="/https:/www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167665" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.7554/eLife.68048" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 426px;">
+  <div style="position: relative">
+    <img src="/publication/2022izgi/featured_hucc43267bb59dca98ba05d49d44293b8e_207489_720x2500_fit_q75_h2_lanczos.webp" width="720" height="426" alt="" class="featured-image">
+    <span class="article-header-caption">Figure 2 - <a href="https://iiif.elifesciences.org/lax:68048%2Felife-68048-fig2-v4.tif/full/1500,/0/default.jpg" target="_blank" rel="noopener"><strong>eLife</strong></a></span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Developmental trajectories of gene expression may reverse in their direction during ageing, a phenomenon previously linked to cellular identity loss. Our analysis of cerebral cortex, lung, liver and muscle transcriptomes of 16 mice, covering development and ageing intervals, revealed widespread but tissue-specific ageing-associated expression reversals. Cumulatively, these reversals create a unique phenomenon: mammalian tissue transcriptomes diverge from each other during postnatal development, but during ageing, they tend to converge towards similar expression levels, a process we term Divergence followed by Convergence, or DiCo. We found that DiCo was most prevalent among tissue-specific genes and associated with loss of tissue identity, which is confirmed using data from independent mouse and human datasets. Further, using publicly available single-cell transcriptome data, we showed that DiCo could be driven both by alterations in tissue cell type composition and also by cell-autonomous expression changes within particular cell types.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">eLife</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/mouse/">mouse</a>
+  
+  <a class="badge badge-light" href="/tag/transcriptomics/">transcriptomics</a>
+  
+  <a class="badge badge-light" href="/tag/development-vs-ageing/">development vs ageing</a>
+  
+  <a class="badge badge-light" href="/tag/dico/">DiCo</a>
+  
+  <a class="badge badge-light" href="/tag/reversal/">reversal</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://donertas-group.github.io/publication/2022izgi/&amp;text=Inter-tissue%20convergence%20of%20gene%20expression%20during%20ageing%20suggests%20age-related%20loss%20of%20tissue%20and%20cellular%20identity%20%28Research%20Article%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://donertas-group.github.io/publication/2022izgi/&amp;t=Inter-tissue%20convergence%20of%20gene%20expression%20during%20ageing%20suggests%20age-related%20loss%20of%20tissue%20and%20cellular%20identity%20%28Research%20Article%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Inter-tissue%20convergence%20of%20gene%20expression%20during%20ageing%20suggests%20age-related%20loss%20of%20tissue%20and%20cellular%20identity%20%28Research%20Article%29&amp;body=https://donertas-group.github.io/publication/2022izgi/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://donertas-group.github.io/publication/2022izgi/&amp;title=Inter-tissue%20convergence%20of%20gene%20expression%20during%20ageing%20suggests%20age-related%20loss%20of%20tissue%20and%20cellular%20identity%20%28Research%20Article%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Inter-tissue%20convergence%20of%20gene%20expression%20during%20ageing%20suggests%20age-related%20loss%20of%20tissue%20and%20cellular%20identity%20%28Research%20Article%29%20https://donertas-group.github.io/publication/2022izgi/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://reddit.com/submit?url=https://donertas-group.github.io/publication/2022izgi/&amp;title=Inter-tissue%20convergence%20of%20gene%20expression%20during%20ageing%20suggests%20age-related%20loss%20of%20tissue%20and%20cellular%20identity%20%28Research%20Article%29" target="_blank" rel="noopener" class="share-btn-reddit" aria-label="reddit-alien">
+          <i class="fab fa-reddit-alien"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/ulas-isildak/"><img class="avatar mr-3 avatar-circle" src="/author/ulas-isildak/avatar_huaacb5b4d0278c3800ef29f5bed272a90_280212_270x270_fill_q75_lanczos_center.jpeg" alt="Ulas Isildak"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/ulas-isildak/">Ulas Isildak</a></h5>
+      <h6 class="card-subtitle">PhD Student</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:ulas.isildak@leibniz-fli.de" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/ulasisildak1" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com.tr/citations?user=ZLLkaTIAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/ulasisik" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/h.-melike-donertas/"><img class="avatar mr-3 avatar-circle" src="/author/h.-melike-donertas/avatar_hu72206a103058cecb1072fa2e6b6e5c01_78927_270x270_fill_q75_lanczos_center.jpeg" alt="H. Melike Dönertaş"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/h.-melike-donertas/">H. Melike Dönertaş</a></h5>
+      <h6 class="card-subtitle">Group Leader</h6>
+      <p class="card-text">Computational biologist working at the intersection of ageing and microbiome research.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:melike.donertas@leibniz-fli.de" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/melikedonertas" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=rgAMfYcAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/mdonertas" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2024 Melike Dönertaş. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.53d67dc2cb1ebceb89d5e2aba2f86112.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.ab2f2890dbe3e2e83579366d3d6e8fd9.js"></script>
+
+    
+    
+      <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+</body>
+</html>
