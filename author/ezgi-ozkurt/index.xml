@@ -5,12 +5,20 @@
     <link>/author/ezgi-ozkurt/</link>
       <atom:link href="/author/ezgi-ozkurt/index.xml" rel="self" type="application/rss+xml" />
     <description>Ezgi Özkurt</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/ezgi-ozkurt/avatar_huf666d979d1ea5c102d6062c93eb08fec_8550_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/media/logo_hu7a256f2e6c69d07b57966dfff6c0f8cb_417266_300x300_fit_lanczos_3.png</url>
       <title>Ezgi Özkurt</title>
       <link>/author/ezgi-ozkurt/</link>
     </image>
+    
+    <item>
+      <title>Convergent evolution of primate testis transcriptomes reflects mating strategy (Research Article)</title>
+      <link>/publication/2021yapar/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021yapar/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
